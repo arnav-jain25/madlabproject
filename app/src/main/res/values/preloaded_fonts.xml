@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/actor</item>
+        <item>@font/aguafina_script</item>
+        <item>@font/aladin</item>
+        <item>@font/alegreya</item>
+        <item>@font/almendra_bold</item>
+        <item>@font/almendra_bold_italic</item>
+        <item>@font/amarante</item>
+        <item>@font/andika</item>
+        <item>@font/artifika</item>
+        <item>@font/roboto</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/roboto_light</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/roboto_mono</item>
+        <item>@font/roboto_slab_thin</item>
+    </array>
+</resources>
